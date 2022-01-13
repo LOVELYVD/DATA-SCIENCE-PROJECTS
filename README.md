@@ -1,2 +1,2 @@
 # DATA-SCIENCE-PROJECTS
-Machine Learning, FDeep Learning, Natural Language Processing, Computer Vision , Data Analysis
+Machine Learning, Deep Learning, Natural Language Processing, Computer Vision , Data Analysis
